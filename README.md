@@ -1,2 +1,0 @@
-# codedevil.me
-My website.
